@@ -2,13 +2,164 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:xlink="http://www.w3.org/1999/xlink" width="744.094" height="1052.362" id="svg2385" sodipodi:version="0.32" inkscape:version="0.46dev+devel">
   <defs id="defsRock">
+  <pattern inkscape:stockid="页岩" id="yeycsdh" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10">
+      <path d="M 0 0h10" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 2h10" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 4h10" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 6h10" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 8h10" stroke="black" stroke-width="0.3" fill="none" />
+    </pattern>
+     <pattern inkscape:stockid="油页岩" id="yeyckah" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 0 0h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 2h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 4h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 6h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 8h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 2 6 l4 -4" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 4 6 l4 -4" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 6 6 l4 -4" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 0 10h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 12 16 l4 -4" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 14 16 l4 -4" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 16 16 l4 -4" stroke="black" stroke-width="0.2" fill="none" />
+    </pattern>
+     <pattern inkscape:stockid="劣质油页岩" id="yeyy01h" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 0 0h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 2h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 4h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 6h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 8h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 4 6 l2 -4" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 0 10h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h20" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 14 16 l2 -4" stroke="black" stroke-width="0.2" fill="none" />
+    </pattern>
+     <pattern inkscape:stockid="砂质页岩" id="csd0050106C" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 5 0h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 2h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 4h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 6h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 8h15" stroke="black" stroke-width="0.3" fill="none" />
+      <circle cx="2.5" cy="5" r="0.3" stroke="black" stroke-width="0.5" fill="#ffffff" />
+      <path d="M 0 10h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h15" stroke="black" stroke-width="0.3" fill="none" />
+      <circle cx="17.5" cy="15" r="0.3" stroke="black" stroke-width="0.5" fill="#ffffff" />
+    </pattern>
+     <pattern inkscape:stockid="碳质页岩" id="csd0050202C" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 5 0h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 2h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 4h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 6h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 8h15" stroke="black" stroke-width="0.3" fill="none" />
+      <text x="2" y="5" font-size="4"  fill="#000000" >C</text>
+      <path d="M 0 10h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h15" stroke="black" stroke-width="0.3" fill="none" />
+      <text x="17" y="15" font-size="4"  fill="#000000" >C</text>
+    </pattern>
+     <pattern inkscape:stockid="硅质页岩" id="csd00505051h" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 5 0h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 2h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 4h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 6h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 8h15" stroke="black" stroke-width="0.3" fill="none" />
+      <text x="2" y="5" font-size="4"  fill="#000000" >Si</text>
+      <path d="M 0 10h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h15" stroke="black" stroke-width="0.3" fill="none" />
+      <text x="17" y="15" font-size="4"  fill="#000000" >Si</text>
+    </pattern>
+     <pattern inkscape:stockid="铁质页岩" id="csd0050505C" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 5 0h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 2h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 4h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 6h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 8h15" stroke="black" stroke-width="0.3" fill="none" />
+      <text x="2" y="5" font-size="4"  fill="#000000" >Fe</text>
+      <path d="M 0 10h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h15" stroke="black" stroke-width="0.3" fill="none" />
+      <text x="17" y="15" font-size="4"  fill="#000000" >Fe</text>
+    </pattern>
+     <pattern inkscape:stockid="铝质页岩" id="csd0050509C" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 5 0h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 2h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 4h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 6h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 8h15" stroke="black" stroke-width="0.3" fill="none" />
+      <text x="2" y="5" font-size="4"  fill="#000000" >Al</text>
+      <path d="M 0 10h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h15" stroke="black" stroke-width="0.3" fill="none" />
+      <text x="17" y="15" font-size="4"  fill="#000000" >Al</text>
+    </pattern>
+     <pattern inkscape:stockid="凝灰质页岩" id="csd0050602h" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 5 0h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 2h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 4h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 6h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 8h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 1 7 l2 -4 l2 4" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 10h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 11 17 l2 -4 l2 4" stroke="black" stroke-width="0.3" fill="none" />
+    </pattern>
+     <pattern inkscape:stockid="沥青质页岩" id="csd0050203h" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 5 0h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 2h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 4h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 6h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 8h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 3 l-2 4 h4z" stroke="black" stroke-width="0.3" fill="#000000" />
+      <path d="M 0 10h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 15 13 l-2 4 h4z" stroke="black" stroke-width="0.3" fill="#000000" />
+    </pattern>
+     <pattern inkscape:stockid="灰质页岩" id="csd0050307h" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+      <path d="M 5 0h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 2h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 4h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 6h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 8h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 5 0v10" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 10h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 12h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 14h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 16h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 0 18h15" stroke="black" stroke-width="0.3" fill="none" />
+      <path d="M 15 10v10" stroke="black" stroke-width="0.3" fill="none" />
+    </pattern>
     <pattern inkscape:stockid="石灰岩" id="shycteh" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="80" height="20">
       <path d="M 10 0v10" stroke="black" stroke-width="1" fill="none" />
       <path d="M 50 0v10" stroke="black" stroke-width="1" fill="none" />
       <path d="M 30 10v10" stroke="black" stroke-width="1" fill="none" />
       <path d="M 70 10v10" stroke="black" stroke-width="1" fill="none" />
-        <path d="M 0 0 h80" stroke-width="0.5" stroke="black" fill="none" />
-        <path d="M 0 10 h80" stroke-width="0.5" stroke="black" fill="none" />
+      <path d="M 0 0 h80" stroke-width="0.5" stroke="black" fill="none" />
+      <path d="M 0 10 h80" stroke-width="0.5" stroke="black" fill="none" />
     </pattern>
     <pattern inkscape:stockid="白云岩" id="byyctlh" inkscape:collect="always" patternUnits="userSpaceOnUse" x="0" y="0" width="80" height="20">
       <path d="M 10 0 l-3 10" stroke="black" stroke-width="0.5" fill="none" />
@@ -49,6 +200,44 @@
       <path d="M 70 10v5 h2 h-2 v5" stroke="black" stroke-width="0.5" fill="none" />
         <path d="M 0 0 h80" stroke-width="0.5" stroke="black" fill="none" />
         <path d="M 0 10 h80" stroke-width="0.5" stroke="black" fill="none" />
+    </pattern>
+     <pattern inkscape:stockid="泥岩" id="csc0050108c" patternUnits="userSpaceOnUse" x="0" y="0" width="10" height="10">
+      <!-- background  style 4 x 2-->
+      <rect x="0" y="0" width="20" height="10" stroke="#ffffff" stroke-width="1" fill="#ffffff" />
+      <path d="M 0 0 h10" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 0 5 h10" stroke="black" stroke-width="0.2" fill="none" />
+      <!-- col1 x row1-->
+      <path d="M 2 2.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+      <!--col2 x row2-->
+      <path d="M 7 7.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+    </pattern>
+    <pattern inkscape:stockid="砂质泥岩" id="csc0050106h" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+      <!-- background  style 4 x 2-->
+      <rect x="0" y="0" width="20" height="10" stroke="#ffffff" stroke-width="1" fill="#ffffff" />
+      <path d="M 0 0 h15" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 0 5 h15" stroke="black" stroke-width="0.2" fill="none" />
+      <!-- col1 x row1-->
+      <path d="M 1 2.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+       <path d="M 6 2.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+      <circle cx="12.5" cy="2.5" r="0.5" stroke="black" stroke-width="0.5" fill="#ffffff" />
+      <circle cx="2.5" cy="7.5" r="0.5" stroke="black" stroke-width="0.5" fill="#ffffff" />
+       <path d="M 6 7.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+      <path d="M 11 7.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+    </pattern>
+     <pattern inkscape:stockid="粉砂质泥岩" id="csc0050108h" patternUnits="userSpaceOnUse" x="0" y="0" width="15" height="10">
+      <!-- background  style 4 x 2-->
+      <rect x="0" y="0" width="20" height="10" stroke="#ffffff" stroke-width="1" fill="#ffffff" />
+      <path d="M 0 0 h15" stroke="black" stroke-width="0.2" fill="none" />
+      <path d="M 0 5 h15" stroke="black" stroke-width="0.2" fill="none" />
+      <!-- col1 x row1-->
+      <path d="M 1 2.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+       <path d="M 6 2.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+      <circle cx="11" cy="2.5" r="0.2" stroke="black" stroke-width="0.5" fill="#ffffff" />
+      <circle cx="13" cy="2.5" r="0.2" stroke="black" stroke-width="0.5" fill="#ffffff" />
+      <circle cx="1" cy="7.5" r="0.2" stroke="black" stroke-width="0.5" fill="#ffffff" />
+      <circle cx="3" cy="7.5" r="0.2" stroke="black" stroke-width="0.5" fill="#ffffff" />
+      <path d="M 6 7.5 h3" stroke="black" stroke-width="0.5" fill="none" />
+      <path d="M 11 7.5 h3" stroke="black" stroke-width="0.5" fill="none" />
     </pattern>
     <pattern inkscape:stockid="巨砾岩" id="csa0011h" patternUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
       <!-- background  style 2 x 2-->
